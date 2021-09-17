@@ -1,3 +1,7 @@
+# Masterclass React
+
+This project is a introduction to the creation of a simple form using React. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
