@@ -2,12 +2,12 @@
 
 This project is a introduction to the creation of a simple form using React. 
 
-** Initialized with the next command: **
+**Initialized with the next command:**
 ```
 Npx create-react-app [folder-name]
 ```
 
-** Simple hook form added with:  **
+**Simple hook form added with:**
 ```
 yarn add react-hook-form@6.13.0
 ```
