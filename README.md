@@ -2,7 +2,17 @@
 
 This project is a introduction to the creation of a simple form using React. 
 
-## Getting Started with Create React App
+** Initialized with the next command: **
+```
+Npx create-react-app [folder-name]
+```
+
+** Simple hook form added with:  **
+```
+yarn add react-hook-form@6.13.0
+```
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
