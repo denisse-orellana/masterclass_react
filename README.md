@@ -4,7 +4,7 @@ This project is a introduction to the creation of a simple form using React.
 
 **Initialized with the command:**
 ```
-npx create-react-app [folder-name]
+npm create-react-app [folder-name]
 ```
 
 **Simple hook form added with:**
