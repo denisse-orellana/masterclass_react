@@ -14,7 +14,7 @@ yarn add react-hook-form@6.13.0
 
 **Form preview:**
 
-![form-react](form-react.png)
+![form-react](/public/form-react.png)
 
 ### Getting Started with Create React App
 
