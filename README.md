@@ -3,14 +3,18 @@
 This project is a introduction to the creation of a simple form using React. 
 
 **Initialized with the command:**
-```
+```console
 npm create-react-app [folder-name]
 ```
 
 **Simple hook form added with:**
-```
+```console
 yarn add react-hook-form@6.13.0
 ```
+
+**Form preview:**
+
+![form-react]('/public/form-react.png')
 
 ### Getting Started with Create React App
 
